@@ -1,0 +1,21 @@
+---
+tasks:
+- id: 1
+  title: Coding
+  description: equals Life
+- id: 2
+  title: Pomodoro
+  description: I should take one right now and maybe eat some Green Tea ice cream.
+- id: 3
+  title: Peanut Butter
+  description: Just eat it already!
+- id: 4
+  title: NRDLIFE
+  description: That's your life.
+- id: 5
+  title: New Task
+  description: This is the description for the task named 'New Task'
+- id: 6
+  title: Side Hussle
+  description: Write trollbot script for Slack.
+total: 6
